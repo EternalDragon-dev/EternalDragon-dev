@@ -65,11 +65,12 @@ Custom AI framework with modular architecture for privacy-focused local AI/ML de
 - **Tech:** Python, PyTorch, TensorFlow, FastAPI, Transformers
 
 #### 🔮 [Alter Lab](https://github.com/EternalDragon-dev/alter-lab)
-FastAPI-based AI chat interface with database persistence and embeddings support.
-- RESTful API for AI chat interactions
-- SQLite database for conversation memory
-- Text embeddings for semantic search
-- **Tech:** Python, FastAPI, SQLite, Pydantic
+Full-featured AI chat application with Ollama integration, persistent conversations, and modern web UI.
+- Real AI integration with Ollama (llama3.2:1b) and OpenAI fallback
+- Multi-conversation management with SQLite
+- Modern web interface with conversation history sidebar
+- Complete RESTful API with health checks
+- **Tech:** Python, FastAPI, Ollama, SQLite
 
 ### 🔒 Security Research
 
@@ -103,7 +104,7 @@ Professional security testing framework with advanced reconnaissance and exploit
 ## 📫 Connect With Me
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/EternalDragon-dev)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:steven@simelane.co.za)
 
 ---
 
